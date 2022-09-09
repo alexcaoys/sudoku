@@ -1,0 +1,25 @@
+{
+    "language": "en-us",
+    "solver": {
+        "solver": "GUROBI_CMD", 
+        "path": "--$GUROBI_HOME--/bin/gurobi_cl"
+    },
+    "graph_size": 640,
+    "grid_parameters": {
+        "scale": 1,
+        "cell_size": 20,
+        "grid_label": false,
+        "grid_label_width": 10,
+        "grid_label_font": 6.5,
+        "white_boarder_width": 2,
+        "main_width": 1,
+        "inside_width": 0.5,
+        "inside_box_boarder": 1,
+        "group_font": 5,
+        "text_boarder": 0.5,
+        "cell_big_font": 10,
+        "cell_small_font": 5,
+        "small_cell_size": 5,
+        "lts_boarder": 2.5
+    }
+}
